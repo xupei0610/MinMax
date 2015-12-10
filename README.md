@@ -32,11 +32,11 @@ The evaluation function employed in this system is defined based on the followin
 
     +1 for any 4-slot line where one slot is occupied by the *current* agent and the rest are empty.
     +4 for any 4-slot line where two slots are occupied by the *current* agent and the rest are empty.
-    +8 for any 4-slot line where three slots are occupied by the *current* agent and the rest one is empty.
+    +16 for any 4-slot line where three slots are occupied by the *current* agent and the rest one is empty.
     +infinite for any 4-slot line where four slots are all occupied by the *current* agent (the win case).
     -1 for any 4-slot line where one slot is occupied by the *opposite* agent and the rest are empty.
     -4 for any 4-slot line where two slots are occupied by the *opposite* agent and the rest are empty.
-    -8 for any 4-slot line where three slots are occupied by the *opposite* agent and the rest one is empty.
+    -16 for any 4-slot line where three slots are occupied by the *opposite* agent and the rest one is empty.
     -infinite for any 4-slot line where four slots are all occupied by the *opposite* agent (the lose case).
 
 
