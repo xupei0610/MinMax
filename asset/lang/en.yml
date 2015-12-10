@@ -1,0 +1,39 @@
+
+en:
+
+  language: english
+  
+  window:
+
+    caption: Four in a Row -- Developed by Pei Xu
+
+    menu:
+      file: File
+      new: New Game
+      quit: Quit
+      help: Help
+      about: About
+    
+    new_game:
+      caption: Start A New Game
+      submit: GO GO GO
+
+  agent:
+    human_agent: Human Player
+    rand_comp_agent: Unpredictable Computer
+    intel_comp_agent_1: Greedy Computer
+    intel_comp_agent_2: Normal Computer
+    intel_comp_agent_3: Rational Computer
+    intel_comp_agent_4: Smart Computer
+    intel_comp_agent_5: Frenzied Computer
+
+  button:
+    new_game: Start A New Game
+      
+  vs: v.s.
+
+  draw: DRAW
+
+  win: WIN
+
+
