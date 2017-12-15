@@ -1,6 +1,9 @@
 # Connect-Four
 An implement for Connect-Four Game.
 
+**ATTENTION**
+    The default version of TK of Ruby 2.3 is bugged and cannot run this program directly. see https://stackoverflow.com/questions/43011258/ruby-tks-canvas-and-shapes-are-bugging-out/.
+
 # Version
 v. 1.0.1
 
